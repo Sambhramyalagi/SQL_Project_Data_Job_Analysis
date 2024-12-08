@@ -29,11 +29,16 @@ INNER JOIN skills_job_dim ON top_paying_jobs.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id;
 
 /*
-    Here are the insights from most demanded skill for high-paying jobs for 20
-    Most Frequent Skills:
-    SQL: Appears 5 times, making it the most sought-after skill.
-    Oracle, Power BI, and MongoDB: Each appear 4 times, indicating high demand.
-    Other Prominent Skills:
-    AWS, Spark, and Python: Each show up 3 times.
-    Databricks and Azure: Each appear 2 times.
+Core Skills for High-Paying Data Roles: Commonly required technical skills include SQL, 
+Python, NoSQL databases (e.g., MongoDB, PostgreSQL, Neo4j), cloud platforms (Azure, AWS), 
+and data engineering tools like Spark, Hadoop, and Airflow. Additionally, proficiency in data 
+visualization tools like Power BI and Tableau is highly valued.
+
+Emerging Trends and Specialized Skills: Specialized technologies such as Databricks, Kafka, 
+Snowflake, and GDPR compliance knowledge are in demand for roles like Data Architect and Senior 
+Analyst, reflecting the evolving complexity of data management in industries like healthcare and genomics.
+
+Role-Specific Diversification: Business-focused roles (e.g., Senior Business Analyst) emphasize soft 
+skills and tools like Excel, Jira, and Confluence, while technical roles prioritize shell scripting, 
+programming languages like Scala and Go, and operational tools like Jenkins and GitLab.
 */

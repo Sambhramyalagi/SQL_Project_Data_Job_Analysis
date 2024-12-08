@@ -19,3 +19,19 @@ WHERE
 GROUP BY skills
 ORDER BY avg_salary DESC
 LIMIT 25;
+
+/*
+
+High-paying skills revolve around data technologies and programming: Skills such as PySpark, GitLab, PostgreSQL, 
+and MySQL are highly valued, with an average salary of around $165,000. These tools are crucial in data engineering,
+database management, and software development.
+
+Big Data and Cloud technologies are in demand: Tools like Neo4j, Airflow, Kafka, and Databricks show significant 
+earning potential, suggesting that expertise in big data technologies and cloud computing can lead to high-paying 
+roles.
+
+Data analytics and visualization tools also offer good salaries: Skills related to data analysis, such as Pandas,
+DAX, and Matplotlib, although slightly lower in salary, still provide lucrative opportunities with an average salary
+around $110,000 to $120,000.
+
+*/

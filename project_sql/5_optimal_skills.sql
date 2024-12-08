@@ -49,3 +49,17 @@ ORDER BY
         avg_salary DESC,
         demand_count DESC
 LIMIT 25;
+
+/*
+
+High Demand and Salary Skills: Skills like MySQL, Pyspark, and Databricks have high demand (over 100 mentions)
+and offer an average salary of around ₹165,000, making them highly valuable for a Data Analyst.
+
+Key Skills for Career Growth: Tools like Power BI (with 1043 mentions and a salary of ₹109,832), Spark, and Hadoop 
+are in high demand, signaling their importance for expanding data analytics roles and career opportunities.
+
+Specialized Skills with Niche Demand: Skills such as GDPR, Airflow, and Kafka have a moderate demand (37-70 mentions) 
+but still offer competitive salaries, making them valuable for specialized roles in data governance, workflow automation,
+and data streaming.
+
+*/
