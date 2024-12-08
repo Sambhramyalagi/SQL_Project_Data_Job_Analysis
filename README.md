@@ -1,29 +1,30 @@
 # Introduction
-Dive into the data job market! Focusing on data analyst roles, this project explores top_paying jobs, in_demand skills and where high demand meets high salary in data analytics.
+Dive into the data job market! Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 
-Sql queries? check them out here: [project_sql folder](/project_sql/)
+SQL queries? check them out here: [project_sql folder](/project_sql/)
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top_paid and in_demand skills, streamlining others work to find optimal jobs.
+Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others' work to find optimal jobs.
 
 ## The questions I wanted to answer through my SQL queries were:
 
-1. What are the top_paying data analyst jobs in india?
-2. What skills are required for these top_paying jobs?
+1. What are the top paying data analyst jobs in india?
+2. What skills are required for these top paying jobs?
 3. What skills are most in demand for data analytics?
 4. which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
 # Tools I Have Used
 For my deep dive into the data analyst job market,
-I harnessed the power of several key tolls:
+I harnessed the power of several key tools:
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
-- **PostgresSQL:** The chosen database management system, ideal for handling the job posting data.
+- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
-- **Git & HitHub:** Essentials for version control and sharing my SQL scripts and analysis, ensuring collabration and project tracking.
+- **Git & GitHub:** Essentials for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market.
-Here's how  approached each question:
+Here's how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data anayst positions by average yearly salary and location, focusing on India based jobs. This query highlights the high paying opportunities in the field.
@@ -217,12 +218,13 @@ Insights on most optimal skills to learn (aka high in-demand as well as high-pay
 3. **Specialized Skills with Niche Demand:** Skills such as GDPR, Airflow, and Kafka have a moderate demand (37-70 mentions) but still offer competitive salaries, making them valuable for specialized roles in data governance, workflow automation, and data streaming.
 
 # What I learned
-Throughout this adventure, I've turbocharged my SQL toolkit with some series firepower:
-- **Complex Query Crafting:** Mastered the art of advanced SQL, mergiing tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
+Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
+
+- **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
 - **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- **SQL Joins:** Mastered the art of using joins in SQL from this project
+- **SQL Joins:** Mastered the art of using joins in SQL from this project.
 # Conclusions
 
-### Closing Thoughts
+**Closing Thoughts**
 
-This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysis can better position themselves in a competative job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adaption to emerging trends in the field of data analytics.
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
