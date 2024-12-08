@@ -3,7 +3,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 
 Sql queries? check them out here: [project_sql folder](/project_sql/)
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top_paid and in_demand skills, stremlining others work to find optimal jobs.
+Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top_paid and in_demand skills, streamlining others work to find optimal jobs.
 
 ## The questions I wanted to answer through my SQL queries were:
 
